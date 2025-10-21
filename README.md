@@ -1,7 +1,9 @@
 <!-- <img src="https://user-images.githubusercontent.com/76155456/155187006-4ef09ed3-3869-499f-84c3-7bdaa68f73d4.png" width="1000px"/> -->
 
 <h1 align="center">Hey Everyone 👋, I'm Ram Lal</h1>
-<h3 align="center">💻 A Web Developer & Problem Solver from Mathura, India 🇮🇳</h3>
+<h3 align="center">💻 A Passionate Full Stack Developer from India 🇮🇳</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramlal-01&label=Profile%20views&color=0e75b6&style=flat" alt="praveenkumar02023" /> </p>
 
 ---
 
@@ -9,9 +11,13 @@
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
 ✨ A tech enthusiast passionate about crafting clean and functional web experiences.  
+
 🌱 Currently diving deeper into **JavaScript**, **React**, and **Backend development**.  
+
 💡 I enjoy building full-stack apps and solving algorithmic challenges.  
+
 📘 Love exploring new technologies and experimenting with creative UI ideas.  
+
 🎯 Focused on continuous learning and improving one project at a time.  
 
 📫 **Reach me at:** [ramlal0801@gmail.com](mailto:ramlal0801@gmail.com)
