@@ -12,11 +12,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake
+      - name: Generate snake (dark mode)
         uses: Platane/snk@v3
         with:
           github_user_name: ramlal-01
           outputs: dist/github-contribution-grid-snake.svg
+          theme: dark   # Enable dark mode
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
