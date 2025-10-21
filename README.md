@@ -68,7 +68,7 @@
 
 ---
 
-![Snake animation](https://github.com/ramlal-01/ramlal-01/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/ramlal-01/ramlal-01/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
