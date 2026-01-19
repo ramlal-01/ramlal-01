@@ -10,7 +10,7 @@
 # 💫 About Me:
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
---I am currently working on <a href="www.track2crack.com">Track2Crack</a>--
+🚀 <b>Currently building:</b> <a href="https://www.track2crack.com" target="_blank">Track2Crack</a> – a platform to help users crack goals with structured tracking.
 
 ✨ A tech enthusiast passionate about crafting clean and functional web experiences.  
 
