@@ -10,7 +10,17 @@
 # 💫 About Me:
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
-🚀 <b>Currently building:</b> <a href="https://www.track2crack.com" target="_blank">Track2Crack</a> – a platform to help users crack goals with structured tracking.
+🚀 **Currently building:** Track2Crack  
+<p align="left">
+  <a href="https://www.track2crack.com" target="_blank">
+    <img src="https://img.shields.io/badge/LIVE%20PROJECT-Track2Crack-4c4c4c?style=for-the-badge" />
+  </a>
+  <a href="https://www.track2crack.com" target="_blank">
+    <img src="https://img.shields.io/badge/VISIT%20NOW-Website-brightgreen?style=for-the-badge" />
+  </a>
+</p>
+
+
 
 ✨ A tech enthusiast passionate about crafting clean and functional web experiences.  
 
